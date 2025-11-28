@@ -76,13 +76,13 @@ Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
 ## GitHub Stats
 
 
-| 🌟 CoffeeMother's Stats 🌟 |
+| 🌟 Horosho's Stats 🌟 |
 |:--------------------------------------------------------------------------------------------------------------------------------------:|
 | ![CoffeeMother's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=CoffeeMother&theme=react-dark&hide_border=true&area=true) |
 | ![CoffeeMother's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoffeeMother&show_icons=true&theme=algolia) |
 | ![CoffeeMother's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoffeeMother&theme=algolia) |
 
-| CoffeeMother's Repository Stars | Top Languages |
+| Horosho 's Repository Stars | Top Languages |
 |:-------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------|
 | ![Estadísticas detalladas](https://github-readme-stats.vercel.app/api?username=CoffeeMother&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Tus lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeMother&langs_count=8&theme=algolia&layout=compact) |
 
@@ -96,7 +96,7 @@ Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
 
 If you have any questions about front-end web development, feel free to <a href="mailto:vnzelectro@gmail.com">Contactame por mi email </a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/gus-anonimo/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
@@ -105,13 +105,13 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+"Lo que separa a los ganadores de los perdedores es, a menudo, no rendirse."
 
+(“What separates the winners from the losers is, many times, not quitting.”)
+
+Contexto: Una cita sencilla y universal sobre la perseverancia y la importancia de la tenacidad para alcanzar el éxito.
   </td>
   </tr>
 </table>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
