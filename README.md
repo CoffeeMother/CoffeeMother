@@ -68,7 +68,6 @@ Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Pc Air M1" src="![PC Compatible](https://img.shields.io/badge/PC_Compatible-Windows_&_Linux-555555?style=for-the-badge&logo=monitor&logoColor=white")></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
@@ -94,14 +93,13 @@ Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vnzelectro@gmail.com">Contactame por mi email </a> me.
+Si tienes alguna pregunta sobre el desarrollo web front-end, no dudes en ponerte en contacto conmigo a través de mi <a href="mailto:vnzelectro@gmail.com"> email </a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/gus-anonimo/">LinkedIn</a> to deploy your machine learning project on web.
-
+Puedes contratarme como freelancer en or <a href="https://www.linkedin.com/in/gus-anonimo/">LinkedIn</a> para desplegar tu proyecto de aprendizaje automático (machine learning) en la web.
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## “What separates the winners from the losers is, many times, not quitting.”
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
