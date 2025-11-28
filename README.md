@@ -24,7 +24,7 @@ Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
 
 🔭 Trabajo en aprendizaje profundo y aprendizaje automático.
 
-🌱 Aprendizaje sobre visión artificial y aprendizaje automático.
+🌱 Aprendizaje sobre visión artificial y aprendizaje automático tambien soy modder.
 
 🌟 Lenguajes principales: Python, Java.
 
