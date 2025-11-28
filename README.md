@@ -68,7 +68,7 @@ Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Pc Air M1" src="![PC Compatible](https://img.shields.io/badge/PC_Compatible-Windows_&_Linux-555555?style=for-the-badge&logo=monitor&logoColor=white"></a>
+    <a href="#"><img alt="Pc Air M1" src="![PC Compatible](https://img.shields.io/badge/PC_Compatible-Windows_&_Linux-555555?style=for-the-badge&logo=monitor&logoColor=white")></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
@@ -76,17 +76,15 @@ Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
 ## GitHub Stats
 
 
-|                                                                     Horosho's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
+| 🌟 CoffeeMother's Stats 🌟 |
+|:--------------------------------------------------------------------------------------------------------------------------------------:|
+| ![CoffeeMother's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=CoffeeMother&theme=react-dark&hide_border=true&area=true) |
+| ![CoffeeMother's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoffeeMother&show_icons=true&theme=algolia) |
+| ![CoffeeMother's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoffeeMother&theme=algolia) |
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
+| CoffeeMother's Repository Stars | Top Languages |
+|:-------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------|
+| ![Estadísticas detalladas](https://github-readme-stats.vercel.app/api?username=CoffeeMother&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Tus lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeMother&langs_count=8&theme=algolia&layout=compact) |
 
 
 
@@ -96,7 +94,7 @@ Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:vnzelectro@gmail.com">Contactame por mi email </a> me.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
 
