@@ -1,68 +1,87 @@
-<h1 align="center">
-Hi, I'm Horosho
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/CoffeeMother"> </a> 
-<br/>
+<img align="left" height="171" src="https://i.pinimg.com/originals/30/d8/4e/30d84e877661729a8ddeda257d4cd786.gif"  />
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=programming+Modder+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Entusiasta;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+###
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+<h6 align="left">Hola soy Horosho<br>-------------------------<br>Soy un desarrollador autodidacta de aprendizaje automático y full-stack.<br><br>📚 Junior en Soporte Técnico Informático, programador en Java y Python, UCD Venezuela.<br><br>📝 Ciencias e Inteligencia Artificial.<br><br>🔭 Trabajo en aprendizaje profundo y aprendizaje automático.<br><br>🌱 Aprendizaje sobre visión artificial y aprendizaje automático tambien soy modder.<br><br>🌟 Lenguajes principales: Python, Java.<br><br>🚩 Interesado en desarrollar aplicaciones full-stack de aprendizaje automático.<br><br>💖 Interacción compleja con redes neuronales.<br><br>🎵 Me apasiona el rock, el metal y el power metal lo-fi.</h6>
 
-```
-I-am-CoffeMother@github
--------------------------
-Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
+###
 
-📚 Licenciado en Soporte Técnico Informático, programador en Java y Python, UCD Venezuela.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8F%20My%20Favorite%20Tools&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
-📝 Ciencias e Inteligencia Artificial.
+###
 
-🔭 Trabajo en aprendizaje profundo y aprendizaje automático.
+<h4 align="left">👨‍💻 Programming Languages</h4>
 
-🌱 Aprendizaje sobre visión artificial y aprendizaje automático tambien soy modder.
+###
 
-🌟 Lenguajes principales: Python, Java.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-🚩 Interesado en desarrollar aplicaciones full-stack de aprendizaje automático.
+###
 
-💖 Interacción compleja con redes neuronales.
+<h4 align="left">💻 Software and Tools</h4>
 
-🎵 Me apasiona el rock, el metal y el power metal lo-fi.
-```
-<hr>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
 
-## 🛠️ My Favorite Tools
+###
 
-### 👨‍💻 Programming Languages
+<h3 align="left">👨🏽‍💻 Workspace</h3>
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+###
 
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
 
-### 💻 Software and Tools
+###
 
-<p>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%94%8E%20Social%20Media&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
-(“What separates the winners from the losers is, many times, not quitting.”)
+###
 
-Contexto: Una cita sencilla y universal sobre la perseverancia y la importancia de la tenacidad para alcanzar el éxito.
-  </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://open.spotify.com/user/H0R0SH0">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=H0R0SH0&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
-------
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gus-anonimo-a84006345/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoffeeMother&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoffeeMother&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
