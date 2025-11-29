@@ -7,7 +7,8 @@ Hola soy Horosho
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Soporte+Estudiante;Full+Stack+Web+Developer+Modder;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Soporte+Estudiante;Full+Stack+Web+Developer+Modder;Freelancer;DS%20|%20AI%20|%20ML%20Entusiasta;siempre%20
+aprendiendo%20Nuevo%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://i.pinimg.com/736x/f7/5f/f5/f75ff52558f40fc41cfe417769556b7c.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
@@ -77,9 +78,9 @@ Me encanta el metal, el lofi, Nu-metal rock alternativo power metal.
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="vnzelectro@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer <a href="https://www.linkedin.com/in/gus-anonimo-/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
