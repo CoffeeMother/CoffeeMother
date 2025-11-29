@@ -78,9 +78,7 @@ Me encanta el metal, el lofi, Nu-metal rock alternativo power metal.
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="vnzelectro@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer <a href="https://www.linkedin.com/in/gus-anonimo-/">LinkedIn</a> to deploy your machine learning project on web.
+If you have any questions about front-end web development, feel free to <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent?compose=new">contact me through email</a> me.
 
   </td>
   <td width="50%" valign="top">
