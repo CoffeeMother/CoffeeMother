@@ -7,7 +7,7 @@ Hola soy Horosho
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Soporte+Estudiante;Full+Stack+Web+Developer+Modder;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://i.pinimg.com/736x/f7/5f/f5/f75ff52558f40fc41cfe417769556b7c.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
@@ -67,7 +67,6 @@ Me encanta el metal, el lofi, Nu-metal rock alternativo power metal.
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
