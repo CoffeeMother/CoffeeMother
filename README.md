@@ -67,7 +67,7 @@ Me encanta el metal, el lofi, Nu-metal rock alternativo power metal.
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Windos10" src="https://img.shields.io/badge/Windows-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
