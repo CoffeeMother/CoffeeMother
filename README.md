@@ -58,41 +58,6 @@ Soy un desarrollador autodidacta de aprendizaje automático y full-stack.
 <p>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
-
-
-## GitHub Stats
-
-
-| 🌟 Horosho's Stats 🌟 |
-|:--------------------------------------------------------------------------------------------------------------------------------------:|
-| ![CoffeeMother's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=CoffeeMother&theme=react-dark&hide_border=true&area=true) |
-| ![CoffeeMother's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoffeeMother&show_icons=true&theme=algolia) |
-| ![CoffeeMother's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoffeeMother&theme=algolia) |
-
-| Horosho 's Repository Stars | Top Languages |
-|:-------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------|
-| ![Estadísticas detalladas](https://github-readme-stats.vercel.app/api?username=CoffeeMother&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Tus lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeMother&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-Si tienes alguna pregunta sobre el desarrollo web front-end, no dudes en ponerte en contacto conmigo a través de mi <a href="mailto:vnzelectro@gmail.com"> email </a> me.
-
-Puedes contratarme como freelancer en or <a href="https://www.linkedin.com/in/gus-anonimo/">LinkedIn</a> para desplegar tu proyecto de aprendizaje automático (machine learning) en la web.
-  </td>
-  <td width="50%" valign="top">
-
-## “What separates the winners from the losers is, many times, not quitting.”
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-"Lo que separa a los ganadores de los perdedores es, a menudo, no rendirse."
-
 (“What separates the winners from the losers is, many times, not quitting.”)
 
 Contexto: Una cita sencilla y universal sobre la perseverancia y la importancia de la tenacidad para alcanzar el éxito.
