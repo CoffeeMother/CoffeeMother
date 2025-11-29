@@ -1,8 +1,8 @@
-<h6 align="left">Hola soy Horosho<br>-------------------------<br>Soy un desarrollador autodidacta de aprendizaje automático y full-stack.<br><br>📚 Junior en Soporte Técnico Informático, programador en Java y Python, UCD Venezuela.<br><br>📝 Ciencias e Inteligencia Artificial.<br><br>🔭 Trabajo en aprendizaje profundo y aprendizaje automático.<br><br>🌱 Aprendizaje sobre visión artificial y aprendizaje automático tambien soy modder.<br><br>🌟 Lenguajes principales: Python, Java.<br><br>🚩 Interesado en desarrollar aplicaciones full-stack de aprendizaje automático.<br><br>💖 Interacción compleja con redes neuronales.<br><br>🎵 Me apasiona el rock, el metal y el power metal lo-fi.</h6>
+<img align="left" height="200" src="https://i.pinimg.com/736x/94/4b/c8/944bc8639a85065beebddd72f6a33b64.jpg"  />
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/736x/94/4b/c8/944bc8639a85065beebddd72f6a33b64.jpg"  />
+<h6 align="left">Hola soy Horosho<br>-------------------------<br>Soy un desarrollador autodidacta de aprendizaje automático y full-stack.<br><br>📚 Junior en Soporte Técnico Informático, programador en Java y Python, UCD Venezuela.<br><br>📝 Ciencias e Inteligencia Artificial.<br><br>🔭 Trabajo en aprendizaje profundo y aprendizaje automático.<br><br>🌱 Aprendizaje sobre visión artificial y aprendizaje automático tambien soy modder.<br><br>🌟 Lenguajes principales: Python, Java.<br><br>🚩 Interesado en desarrollar aplicaciones full-stack de aprendizaje automático.<br><br>💖 Interacción compleja con redes neuronales.<br><br>🎵 Me apasiona el rock, el metal y el power metal lo-fi.</h6>
 
 ###
 
@@ -68,20 +68,5 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoffeeMother&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoffeeMother&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoffeeMother/CoffeeMother/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoffeeMother/CoffeeMother/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CoffeeMother/CoffeeMother/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
