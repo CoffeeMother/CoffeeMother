@@ -2,12 +2,16 @@
 
 ###
 
-<h6 align="left">Hola soy Horosho<br>-------------------------<br>Soy un desarrollador autodidacta de aprendizaje automático y full-stack.<br><br>📚 Junior en Soporte Técnico Informático, programador en Java y Python, UCD Venezuela.<br><br>📝 Ciencias e Inteligencia Artificial.<br><br>🔭 Trabajo en aprendizaje profundo y aprendizaje automático.<br><br>🌱 Aprendizaje sobre visión artificial y aprendizaje automático tambien soy modder.<br><br>🌟 Lenguajes principales: Python, Java.<br><br>🚩 Interesado en desarrollar aplicaciones full-stack de aprendizaje automático.<br><br>💖 Interacción compleja con redes neuronales.<br><br>🎵 Me apasiona el rock, el metal y el power metal lo-fi.</h6>
+<h6 align="left">Hola soy Horosho<br>-------------------------<br>Soy un desarrollador autodidacta de aprendizaje automático y full-stack.<br><br>📚 Junior en Soporte Técnico Informático, programador en Java y Python, UCD Venezuela.<br><br>📝 Ciencias e Inteligencia Artificial.<br><br>🔭 Trabajo en aprendizaje profundo y aprendizaje automático.<br><br>🌱 Aprendizaje sobre visión artificial y aprendizaje automático tambien soy modder.</h6>
+
+###
+
+<p align="center">-------------------------<br>🌟 Lenguajes principales: Python, Java.<br><br>🚩 Interesado en desarrollar aplicaciones full-stack de aprendizaje automático.<br><br>💖 Interacción compleja con redes neuronales.<br><br>🎵 Me apasiona el rock, el metal y el power metal lo-fi.</p>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8F%20My%20Favorite%20Tools&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8F%20My%20Favorite%20Tools&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
 </div>
 
 ###
@@ -51,22 +55,24 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%94%8E%20Social%20Media&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%94%8E%20Social%20Media&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gus-anonimo-a84006345/" target="_blank">
+  <a href="https://www.linkedin.com/in/gus-anonimo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="vnzelectro@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
 </div>
 
 ###
