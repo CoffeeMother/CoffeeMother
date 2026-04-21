@@ -31,7 +31,6 @@ Interesado en el desarrollo de aplicaciones full stack de aprendizaje automátic
 
 Tengo una relación compleja media con las redes neuronales.
 
-Me encanta el metal, el lofi, Nu-metal rock alternativo power metal.
 ```
 <hr>
 
