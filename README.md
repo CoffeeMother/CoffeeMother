@@ -25,7 +25,7 @@ Trabajo en aprendizaje profundo y aprendizaje automático tambien soy modder.
 
 Aprendo sobre visión artificial y aprendizaje automático.
 
-Lenguajes principales: Python, JavaScript.
+Lenguajes principales: Python, Java.
 
 Interesado en el desarrollo de aplicaciones full stack de aprendizaje automático.
 
