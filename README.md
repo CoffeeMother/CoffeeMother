@@ -15,7 +15,7 @@ aprendiendo%20Nuevo%20things&center=true&width=380&height=45"></a>
 <hr>
 
 ```
-Hola mi nombre es Gustavo
+Hola mi nombre es Horosho
 -------------------------
 Soy un desarrollador full stack autodidacta y desarrollador de aprendizaje automático.
 
